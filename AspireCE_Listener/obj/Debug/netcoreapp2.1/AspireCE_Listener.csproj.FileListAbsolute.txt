@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\bin\Debug\netcoreapp2.1\AspireCE_Listener.deps.json
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\bin\Debug\netcoreapp2.1\AspireCE_Listener.runtimeconfig.json
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\bin\Debug\netcoreapp2.1\AspireCE_Listener.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\bin\Debug\netcoreapp2.1\AspireCE_Listener.dll
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\bin\Debug\netcoreapp2.1\AspireCE_Listener.pdb
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\obj\Debug\netcoreapp2.1\AspireCE_Listener.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\obj\Debug\netcoreapp2.1\AspireCE_Listener.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\obj\Debug\netcoreapp2.1\AspireCE_Listener.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\obj\Debug\netcoreapp2.1\AspireCE_Listener.AssemblyInfo.cs
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\obj\Debug\netcoreapp2.1\AspireCE_Listener.dll
+C:\Users\Jason\source\repos\AspireCE_Listener\AspireCE_Listener\obj\Debug\netcoreapp2.1\AspireCE_Listener.pdb

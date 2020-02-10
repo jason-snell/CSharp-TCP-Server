@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Json.Net" Version="1.0.18" />
+    <PackageReference Include="MySql.Data" Version="8.0.18" />
+    <PackageReference Include="MySql.Data.Entity" Version="6.10.9" />
+    <PackageReference Include="System.Security.Permissions" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>bin\Debug\netcoreapp2.1\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6">
+      <HintPath>bin\Debug\netcoreapp2.1\MySql.Data.Entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.EntityFrameworkCore">
+      <HintPath>bin\Debug\netcoreapp2.1\MySQL.Data.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.EntityFrameworkCore.Design">
+      <HintPath>bin\Debug\netcoreapp2.1\MySQL.Data.EntityFrameworkCore.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web">
+      <HintPath>bin\Debug\netcoreapp2.1\MySql.Web.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
