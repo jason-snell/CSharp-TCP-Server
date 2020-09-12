@@ -1,4 +1,4 @@
 # AspireCE_Listener
 C# Multi-Threaded TCP Client
 
-Asynchronous C# TCP client with MySQL
+Multi-Threaded C# TCP client with MySQL
